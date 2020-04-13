@@ -1,7 +1,6 @@
 # Sheetful
 
 > The easiest way to turn your Google Sheet into a Restful API.
-
 That means you can GET, POST, PUT and DELETE to any spreadsheet with just a few lines of code.
 
 [![Build Status](https://travis-ci.com/saasify-sh/sheetful.svg?branch=master)](https://travis-ci.com/saasify-sh/sheetful) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
